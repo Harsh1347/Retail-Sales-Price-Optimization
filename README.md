@@ -84,3 +84,7 @@ Developed a **Streamlit** application to:
 3. [Profit Optimization with Newton's Method](https://towardsdatascience.com/optimization-newtons-method-profit-maximization-part-3-applied-profit-maximization-23a8c16167cd)
 4. Research on Price Ending Effects and Consumer Behavior
 5. [Maven Analytics - Retail Dataset](https://mavenanalytics.io/data-playground)
+
+### 👥 Contributors
+- Sanjana Vashisth
+- Vinay Rawat
