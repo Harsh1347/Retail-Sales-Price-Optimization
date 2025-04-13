@@ -1,5 +1,9 @@
 # Price Elasticity Analysis and Sales Optimization in Retail
 
+## 📘 Project Context
+
+This project was developed as part of the course **CSCI-B565: Data Mining** (Fall 2024) at **Indiana University Bloomington**.
+
 This project aims to enhance pricing strategies in retail through a detailed analysis of historical transaction data. By estimating price elasticity and applying optimization techniques, it provides data-driven price recommendations to maximize revenue and profitability.
 
 ## 🧠 Project Objective
