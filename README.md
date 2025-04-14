@@ -34,13 +34,11 @@ Additional datasets were constructed to introduce dynamic pricing and enable ela
 - Used linear and log-log regression models to estimate elasticity.
 - Clustered products by store, city, or region to capture varying demand behavior.
 - Elasticity formula used:
-  \[
-  \text{Elasticity} = \frac{\%\text{ change in quantity demanded}}{\%\text{ change in price}}
-  \]
-  Log-log model:
-  \[
-  \ln(Q) = \beta_0 + \beta_1 \ln(P) + \epsilon
-  \]
+
+**Elasticity** = (% Change in Quantity Demanded) / (% Change in Price)
+
+**Log-log model**:  
+ln(Q) = β₀ + β₁ × ln(P) + ε
 
 ### 3. **Revenue & Profit Optimization**
 - Developed Python optimization script based on elasticity.
