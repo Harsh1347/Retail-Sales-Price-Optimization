@@ -77,6 +77,9 @@ Developed a **Streamlit** application to:
 - Extend model to include price reductions and seasonal promotions.
 - Include inventory and product recommendation systems.
 
+## Project Extension
+Created a PowerBI dashboard to visualize data at various level. Link: https://github.com/Harsh1347/Retail-Store-Pricing-Dashboard
+
 ## 📚 References
 
 1. [Understanding Price Elasticity](https://conjointly.com/guides/understanding-price-elasticity-of-demand/)
